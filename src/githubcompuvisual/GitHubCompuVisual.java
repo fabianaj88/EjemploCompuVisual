@@ -5,6 +5,8 @@
  */
 package githubcompuvisual;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author Yoaner
@@ -16,6 +18,7 @@ public class GitHubCompuVisual {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        JOptionPane.showMessageDialog(null, "Hola Richard");
     }
     
 }
