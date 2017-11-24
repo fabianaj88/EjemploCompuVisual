@@ -19,6 +19,7 @@ public class GitHubCompuVisual {
     public static void main(String[] args) {
         // TODO code application logic here
         JOptionPane.showMessageDialog(null, "Hola Richard");
+        JOptionPane.showMessageDialog(null, "Como estas Richard");
     }
     
 }
