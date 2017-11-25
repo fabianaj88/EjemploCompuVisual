@@ -20,6 +20,12 @@ public class GitHubCompuVisual {
         // TODO code application logic here
         JOptionPane.showMessageDialog(null, "Hola Richard");
         JOptionPane.showMessageDialog(null, "Como estas Richard");
+        
+        /**********************************************************/
+        
+        JOptionPane.showMessageDialog(null, "Muy bien Fabiana");
+        JOptionPane.showMessageDialog(null, "En estos momentos estoy editando el proyecto");
+        
     }
     
 }
