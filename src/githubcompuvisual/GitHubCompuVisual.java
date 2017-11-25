@@ -26,6 +26,10 @@ public class GitHubCompuVisual {
         JOptionPane.showMessageDialog(null, "Muy bien Fabiana");
         JOptionPane.showMessageDialog(null, "En estos momentos estoy editando el proyecto");
         
+        /**********************************************************/
+        
+        JOptionPane.showMessageDialog(null, "Mensaje de despedida ADIOS!");
+        
     }
     
 }
