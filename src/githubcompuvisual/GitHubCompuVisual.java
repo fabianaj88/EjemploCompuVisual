@@ -30,6 +30,10 @@ public class GitHubCompuVisual {
         
         JOptionPane.showMessageDialog(null, "Mensaje de despedida ADIOS!");
         
+        /**********************************************************/
+        
+        JOptionPane.showMessageDialog(null, "Trabajo terminado con éxito ADIOS!");
+        
     }
     
 }
